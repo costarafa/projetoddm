@@ -1,2 +1,3 @@
-# projetoddm
-Projeto da aula de desenvolvimento para dispositivos móveis
+# Quentinha APP
+
+Desenvolvimento de um aplicativo para gerenciamento de marmitinhas, com Flutter e Dart.
